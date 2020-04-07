@@ -8,9 +8,6 @@ NEIGHBOURHOOD_SIZE_TO_RANGE = {
     'average':      ( 35,  45),
     'big':          ( 90, 140),
     'huge':         (250, 470),
-    'humongous':    (800, 999),
-    'massive':      (4000,5000),
-    'collossal':    (16000,20000),
 }
 
 if PREMIUM == True:
